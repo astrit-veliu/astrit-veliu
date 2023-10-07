@@ -1,4 +1,4 @@
-## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Astrit!](https://www.linkedin.com/in/astrit-veliu-5a8097124) 👻
+## Hi there, I'm [Astrit!](https://www.linkedin.com/in/astrit-veliu-5a8097124) 👻
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/astrit_veliu?style=social)
 [![Linkedin: astrit-veliu](https://img.shields.io/badge/-astrit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/astrit-veliu-5a8097124)](https://www.linkedin.com/in/astrit-veliu-5a8097124)
