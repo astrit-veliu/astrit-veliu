@@ -71,6 +71,7 @@ object Astrit {
 |:---|:---|:---|:---:|
 | `lib` | [Boom](https://github.com/astrit-veliu/Boom) | Beautiful animation library for Android Views | ★ 65 |
 | `lib` | [Smoolider](https://github.com/astrit-veliu/Smoolider) | Smooth, customisable slider for Android | ★ 56 |
+| `lib` | [ShowcaseOverlay](https://github.com/astrit-veliu/ShowcaseOverlay) | Jetpack compose lightweight library to implement app tours | |
 | `app` | [LandLauncher](https://github.com/astrit-veliu/LandLauncher) | Home launcher built for landscape orientation | |
 
 <br/>
