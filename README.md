@@ -78,7 +78,7 @@ object Astrit {
 
 ### Activity
 
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=astrit-veliu&bg_color=0D1117&color=ffffff&line=555555&point=ffffff&area=true&hide_border=true&area_color=ffffff0a&custom_title=Contribution%20Activity)](https://github.com/astrit-veliu)
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=astrit-veliu&hide_border=true&background=0D1117&stroke=0D1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&currStreakNum=ffffff&sideNums=888888&dates=555555" /> </p>
 
 <br/>
 
